@@ -1,2 +1,3 @@
-# erickpatrick
-Personal GitHub markdown readme page
+# Hey!
+
+Thanks for checking my profile here =)
